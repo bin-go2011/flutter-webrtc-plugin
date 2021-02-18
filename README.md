@@ -1,6 +1,6 @@
-# webrtc
+# flutter-webrtc-plugin
 
-A new flutter plugin project.
+WebRTC flutter plugin project.
 
 ## Getting Started
 
