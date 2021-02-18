@@ -2,7 +2,7 @@ import 'dart:io';
 import 'package:flutter/services.dart';
 
 class WebRTC {
-  static const MethodChannel _channel = MethodChannel('FlutterWebRTC.Method');
+  static const MethodChannel _channel = MethodChannel('webrtc');
   static MethodChannel methodChannel() => _channel;
 
   static bool get platformIsDesktop =>

@@ -19,13 +19,10 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   List<RouteItem> items;
 
-  String _platformVersion = 'Unknown';
-
   @override
   void initState() {
     super.initState();
     _initItems();
-    // initPlatformState();
   }
 
   ListBody _buildRow(context, item) {
