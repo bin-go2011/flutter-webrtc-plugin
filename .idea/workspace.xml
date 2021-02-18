@@ -19,15 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b1d6514-061f-49fe-88cc-50844beebc13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/webrtc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_webrtc.iml" afterDir="false" />
+    <list default="true" id="5b1d6514-061f-49fe-88cc-50844beebc13" name="Default Changelist" comment="change the name of the flutter module to flutter_webrtc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_6_API_30]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -103,6 +104,14 @@
       <option name="presentableId" value="Default" />
       <updated>1613652931586</updated>
     </task>
+    <task id="LOCAL-00001" summary="change the name of the flutter module to flutter_webrtc">
+      <created>1613663263881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613663263881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,22 +125,34 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change the name of the flutter module to flutter_webrtc" />
+    <option name="LAST_COMMIT_MESSAGE" value="change the name of the flutter module to flutter_webrtc" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1613653634018">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1613664896592">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613653634018" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1613653634017">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613664896592" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1613664896591">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613653634017" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1613653634017">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613664896591" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1613664896590">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613653634017" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1613653634017">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613664896590" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1613664896591">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613653634017" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613664896591" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1613663295152">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1613663295152" />
+    <state x="363" y="245" key="git4idea.merge.GitPullDialog" timestamp="1613663281728">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="363" y="245" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1613663281728" />
   </component>
 </project>
