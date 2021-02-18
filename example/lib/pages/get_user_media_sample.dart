@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'package:webrtc/webrtc.dart';
+
 /*
  * getUserMedia sample
  */
@@ -9,6 +11,8 @@ class GetUserMediaSample extends StatefulWidget {
 }
 
 class _GetUserMediaState extends State<GetUserMediaSample> {
+  final _localRenderer = RTCVideoRenderer();
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
